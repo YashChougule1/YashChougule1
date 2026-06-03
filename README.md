@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresher looking for a job<br>I have done an undergraduate degree in CSE(AIML)<br>I have done some projects related to my field 
+I'm a fresher looking for a job<br>I have done an undergraduate degree in CSE(AIML)<br>
 
 
 ## 🌐 Socials:
